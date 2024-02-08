@@ -1,6 +1,6 @@
 👋 Hi, I’m David,
 I’m interested in Engeneering and programming.
-I’m a Computer Science student and currently learning how to code in python.
+I’m a Computer Science student and currently learning python.
 I’m looking to collaborate on Games and Websites mainly in Python and Java.
 Reach me at daavedays@gmail.com
 
